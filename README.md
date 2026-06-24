@@ -31,7 +31,7 @@ HAPS-KaFF1.0 provides charged-kaon fragmentation functions extracted from a glob
 
 The analysis incorporates modern COMPASS SIDIS measurements, including the 2025 proton-target multiplicities and the 2026 revised isoscalar-target multiplicities. The revised isoscalar measurements supersede the earlier COMPASS datasets used in previous global fragmentation-function analyses.
 
-The charge-separated kaon measurements enhance the sensitivity to light-quark, unfavored, and strange-to-kaon fragmentation channels. In particular, they provide important information on the flavor structure of charged-kaon production, including the favored (u \to K^+) and (\bar{s} \to K^+) fragmentation channels.
+The charge-separated kaon measurements enhance the sensitivity to light-quark, unfavored, and strange-to-kaon fragmentation channels. In particular, they provide important information on the flavor structure of charged-kaon production, including the favored $u \to K^+$ and $\bar{s} \to K^+$ fragmentation channels.
 
 The extraction is performed at next-to-leading order and within a next-to-next-to-leading-order perturbative-QCD setup. The resulting Monte Carlo replica sets are provided in standard LHAPDF format.
 
